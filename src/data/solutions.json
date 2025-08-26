@@ -1,0 +1,29 @@
+[
+    {
+      "id": "eco-yeast",
+      "name": "EcoYeast",
+      "category": "Food",
+      "description": "A yeast strain that reduces sugar use in baking.",
+      "image": "/images/eco-yeast.jpg",
+      "impact": ["Less sugar", "Consistent quality"],
+      "tags": ["baking", "fermentation"]
+    },
+    {
+      "id": "biofuel-max",
+      "name": "BioFuelMax",
+      "category": "Sustainability",
+      "description": "Microbial solution to optimize biofuel production.",
+      "image": "/images/biofuel.jpg",
+      "impact": ["Higher yield", "Lower waste"],
+      "tags": ["energy", "bioprocess"]
+    },
+    {
+      "id": "gut-guard",
+      "name": "GutGuard",
+      "category": "Health",
+      "description": "Probiotic blend supporting gut health in clinical settings.",
+      "image": "/images/health-gut.jpg",
+      "impact": ["Patient comfort", "Evidence-based"],
+      "tags": ["probiotic", "clinical"]
+    }
+  ]
